@@ -1,0 +1,28 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+### **Project Core Directives**
+
+1.  **Primary Goal:** Implement a Talent Matching MVP. The core feature is a two-stage matching system:
+    *   **Stage 1 (Retrieval):** Fast vector similarity search in Supabase (`pgvector`) to find an initial candidate pool.
+    *   **Stage 2 (Reranking):** Use Cohere's Rerank model (`rerank-english-v3.0`) for high-accuracy relevance scoring on the initial pool.
+2.  **Secondary Goal:** Implement an advanced AI resume review and summarization feature using Cohere's Command R models.
+3.  **Execution Order:** I will follow your instructions sequentially and focus on one task at a time, starting with the first actionable task you provide.
+
+### **Technical Stack & Architecture**
+
+*   **Framework:** Next.js (App Router).
+*   **Language:** JavaScript. I will use JSDoc for type definitions where necessary.
+*   **Backend:** All backend logic will be implemented in Next.js API Routes (`app/api/.../route.js`).
+*   **Database:** Supabase Postgres with the `pgvector` extension, accessed via the Supabase JS client.
+*   **AI Orchestration:** LangChain.js will be used to structure all AI-related logic.
+    *   **Vector Store:** `@langchain/community/vectorstores/supabase` for interacting with `pgvector`.
+    *   **AI Models:** `@langchain/cohere` for `CohereEmbeddings`, `CohereRerank`, and `ChatCohere`.
+*   **UI & Styling:**
+    *   Components will be built using Shadcn UI and Radix UI primitives.
+    *   Styling will be done with Tailwind CSS using a web-first, responsive approach.
+*   **State Management:** `nuqs` will be used for managing state in URL search parameters.
+*   **Security:** All API keys and secrets will be loaded securely from environment variables.
+

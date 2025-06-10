@@ -1,0 +1,1082 @@
+[
+  {
+    "id": 1,
+    "fullName": "Alexander Chen",
+    "firstName": "Alexander",
+    "lastName": "Chen",
+    "email": "alexander.chen@gmail.com",
+    "phone": "415-555-3921",
+    "location": "San Francisco, CA",
+    "avatarUrl": "https://randomuser.me/api/portraits/men/32.jpg",
+    "jobTitle": "Senior Software Engineer",
+    "experienceLevel": "Senior",
+    "yearsOfExperience": 8,
+    "currentEmployer": "TechNova Systems",
+    "bio": "Full stack developer with 8+ years of experience building scalable web applications. Passionate about clean code, performance optimization, and mentoring junior developers. Currently focused on distributed systems and microservices architecture.",
+    "skills": [
+      "JavaScript", "TypeScript", "React", "Node.js", "Python", 
+      "AWS", "Docker", "Kubernetes", "MongoDB", "PostgreSQL", 
+      "GraphQL", "CI/CD", "Microservices", "System Design"
+    ],
+    "education": {
+      "level": "Master's Degree",
+      "institution": "Stanford University",
+      "field": "Computer Science"
+    },
+    "socialLinks": {
+      "linkedIn": "https://linkedin.com/in/alexander-chen-dev",
+      "github": "https://github.com/alexchen-dev",
+      "portfolio": "https://alexchen.dev"
+    },
+    "salaryExpectation": "$140,000-$170,000",
+    "remotePreference": "Hybrid",
+    "availability": "2 weeks",
+    "workAuthorization": "US Citizen",
+    "createdAt": "2023-12-15T08:12:43Z",
+    "updatedAt": "2024-03-10T14:22:05Z"
+  },
+  {
+    "id": 2,
+    "fullName": "Sofia Rodriguez",
+    "firstName": "Sofia",
+    "lastName": "Rodriguez",
+    "email": "sofia.rodriguez@outlook.com",
+    "phone": "646-555-7892",
+    "location": "New York, NY",
+    "avatarUrl": "https://randomuser.me/api/portraits/women/28.jpg",
+    "jobTitle": "UX/UI Designer",
+    "experienceLevel": "Mid-level",
+    "yearsOfExperience": 5,
+    "currentEmployer": "Designify Studio",
+    "bio": "Creative UI/UX designer with 5 years of experience crafting intuitive digital experiences. Skilled in user research, wireframing, and creating high-fidelity prototypes. Passionate about accessibility and inclusive design.",
+    "skills": [
+      "UI Design", "UX Design", "Figma", "Adobe XD", "Sketch",
+      "Wireframing", "Prototyping", "User Research", "Accessibility",
+      "Design Systems", "HTML/CSS", "Typography"
+    ],
+    "education": {
+      "level": "Bachelor's Degree",
+      "institution": "Parsons School of Design",
+      "field": "Interaction Design"
+    },
+    "socialLinks": {
+      "linkedIn": "https://linkedin.com/in/sofia-rodriguez-design",
+      "github": null,
+      "portfolio": "https://sofiarodriguez.design"
+    },
+    "salaryExpectation": "$95,000-$120,000",
+    "remotePreference": "Remote only",
+    "availability": "Immediately",
+    "workAuthorization": "US Citizen",
+    "createdAt": "2024-01-22T11:35:18Z",
+    "updatedAt": "2024-03-19T09:41:33Z"
+  },
+  {
+    "id": 3,
+    "fullName": "Michael Johnson",
+    "firstName": "Michael",
+    "lastName": "Johnson",
+    "email": "michael.johnson@gmail.com",
+    "phone": "512-555-4891",
+    "location": "Austin, TX",
+    "avatarUrl": "https://randomuser.me/api/portraits/men/45.jpg",
+    "jobTitle": "Data Scientist",
+    "experienceLevel": "Senior",
+    "yearsOfExperience": 7,
+    "currentEmployer": "Data Insights Inc.",
+    "bio": "Data scientist with a background in statistical analysis and machine learning. Experienced in building predictive models and extracting actionable insights from complex datasets. Passionate about solving business problems through data-driven approaches.",
+    "skills": [
+      "Python", "R", "SQL", "Machine Learning", "Deep Learning",
+      "TensorFlow", "PyTorch", "Data Visualization", "A/B Testing",
+      "Statistics", "Big Data", "Pandas", "NumPy", "Scikit-learn"
+    ],
+    "education": {
+      "level": "Ph.D.",
+      "institution": "MIT",
+      "field": "Computer Science - Machine Learning"
+    },
+    "socialLinks": {
+      "linkedIn": "https://linkedin.com/in/michael-johnson-datascience",
+      "github": "https://github.com/mjohnson-data",
+      "portfolio": "https://michaeljohnson.io"
+    },
+    "salaryExpectation": "$150,000-$180,000",
+    "remotePreference": "Hybrid",
+    "availability": "1 month",
+    "workAuthorization": "US Citizen",
+    "createdAt": "2023-11-08T15:21:09Z",
+    "updatedAt": "2024-02-28T10:17:44Z"
+  },
+  {
+    "id": 4,
+    "fullName": "Emily Zhang",
+    "firstName": "Emily",
+    "lastName": "Zhang",
+    "email": "emily.zhang@gmail.com",
+    "phone": "206-555-9823",
+    "location": "Seattle, WA",
+    "avatarUrl": "https://randomuser.me/api/portraits/women/33.jpg",
+    "jobTitle": "Product Manager",
+    "experienceLevel": "Mid-level",
+    "yearsOfExperience": 4,
+    "currentEmployer": "InnoTech Solutions",
+    "bio": "Product manager with expertise in agile methodologies and user-centered design. Skilled at identifying market opportunities and translating them into product features. Strong communicator with experience coordinating cross-functional teams.",
+    "skills": [
+      "Product Management", "Agile", "Scrum", "User Stories", "Roadmapping",
+      "Market Research", "A/B Testing", "Data Analysis", "Wireframing",
+      "Stakeholder Management", "JIRA", "Communication"
+    ],
+    "education": {
+      "level": "MBA",
+      "institution": "University of Washington",
+      "field": "Business Administration - Product Management"
+    },
+    "socialLinks": {
+      "linkedIn": "https://linkedin.com/in/emily-zhang-product",
+      "github": null,
+      "portfolio": null
+    },
+    "salaryExpectation": "$120,000-$145,000",
+    "remotePreference": "Flexible",
+    "availability": "1 month",
+    "workAuthorization": "US Citizen",
+    "createdAt": "2023-10-17T09:45:33Z",
+    "updatedAt": "2024-03-05T16:28:10Z"
+  },
+  {
+    "id": 5,
+    "fullName": "David Williams",
+    "firstName": "David",
+    "lastName": "Williams",
+    "email": "david.williams@outlook.com",
+    "phone": "303-555-6721",
+    "location": "Denver, CO",
+    "avatarUrl": "https://randomuser.me/api/portraits/men/67.jpg",
+    "jobTitle": "DevOps Engineer",
+    "experienceLevel": "Senior",
+    "yearsOfExperience": 6,
+    "currentEmployer": "CloudTech Systems",
+    "bio": "DevOps engineer specializing in cloud infrastructure, CI/CD pipelines, and containerization. Experienced in automating deployment processes and optimizing system performance. Strong advocate for infrastructure as code and security best practices.",
+    "skills": [
+      "AWS", "Azure", "Kubernetes", "Docker", "Terraform",
+      "Jenkins", "GitLab CI", "Ansible", "Linux", "Bash",
+      "Python", "Infrastructure as Code", "Monitoring", "Logging"
+    ],
+    "education": {
+      "level": "Bachelor's Degree",
+      "institution": "Colorado State University",
+      "field": "Computer Science"
+    },
+    "socialLinks": {
+      "linkedIn": "https://linkedin.com/in/david-williams-devops",
+      "github": "https://github.com/dwilliams-devops",
+      "portfolio": null
+    },
+    "salaryExpectation": "$130,000-$160,000",
+    "remotePreference": "Remote only",
+    "availability": "2 weeks",
+    "workAuthorization": "US Citizen",
+    "createdAt": "2023-09-25T13:57:22Z",
+    "updatedAt": "2024-02-11T08:39:16Z"
+  },
+  {
+    "id": 6,
+    "fullName": "Rachel Kim",
+    "firstName": "Rachel",
+    "lastName": "Kim",
+    "email": "rachel.kim@gmail.com",
+    "phone": "617-555-8934",
+    "location": "Boston, MA",
+    "avatarUrl": "https://randomuser.me/api/portraits/women/41.jpg",
+    "jobTitle": "Frontend Developer",
+    "experienceLevel": "Mid-level",
+    "yearsOfExperience": 4,
+    "currentEmployer": "WebSphere Technologies",
+    "bio": "Frontend developer specializing in creating responsive, accessible web applications. Proficient in modern JavaScript frameworks and UI component libraries. Passionate about creating engaging user experiences and optimizing performance.",
+    "skills": [
+      "JavaScript", "TypeScript", "React", "Vue.js", "HTML5",
+      "CSS3", "SASS", "Webpack", "Jest", "Redux",
+      "Responsive Design", "Accessibility", "Web Performance"
+    ],
+    "education": {
+      "level": "Bachelor's Degree",
+      "institution": "Boston University",
+      "field": "Computer Science"
+    },
+    "socialLinks": {
+      "linkedIn": "https://linkedin.com/in/rachel-kim-dev",
+      "github": "https://github.com/rachelkim-dev",
+      "portfolio": "https://rachelkim.dev"
+    },
+    "salaryExpectation": "$110,000-$135,000",
+    "remotePreference": "Hybrid",
+    "availability": "2 weeks",
+    "workAuthorization": "US Citizen",
+    "createdAt": "2023-11-30T16:24:51Z",
+    "updatedAt": "2024-03-15T11:53:08Z"
+  },
+  {
+    "id": 7,
+    "fullName": "James Martinez",
+    "firstName": "James",
+    "lastName": "Martinez",
+    "email": "james.martinez@gmail.com",
+    "phone": "312-555-3147",
+    "location": "Chicago, IL",
+    "avatarUrl": "https://randomuser.me/api/portraits/men/24.jpg",
+    "jobTitle": "Full Stack Developer",
+    "experienceLevel": "Junior",
+    "yearsOfExperience": 2,
+    "currentEmployer": "TechStart Solutions",
+    "bio": "Full stack developer with experience in building web applications from front to back. Quickly learning new technologies and implementing best practices. Skilled in collaborative development and version control workflows.",
+    "skills": [
+      "JavaScript", "React", "Node.js", "Express", "MongoDB",
+      "HTML", "CSS", "Git", "REST APIs", "Basic DevOps",
+      "Problem Solving", "Teamwork"
+    ],
+    "education": {
+      "level": "Bachelor's Degree",
+      "institution": "University of Illinois Chicago",
+      "field": "Information Technology"
+    },
+    "socialLinks": {
+      "linkedIn": "https://linkedin.com/in/james-martinez-dev",
+      "github": "https://github.com/jmartinez-code",
+      "portfolio": "https://jamesmartinez.dev"
+    },
+    "salaryExpectation": "$75,000-$95,000",
+    "remotePreference": "Flexible",
+    "availability": "Immediately",
+    "workAuthorization": "US Citizen",
+    "createdAt": "2024-01-05T10:17:39Z",
+    "updatedAt": "2024-03-20T14:28:56Z"
+  },
+  {
+    "id": 8,
+    "fullName": "Samantha Patel",
+    "firstName": "Samantha",
+    "lastName": "Patel",
+    "email": "samantha.patel@outlook.com",
+    "phone": "404-555-7296",
+    "location": "Atlanta, GA",
+    "avatarUrl": "https://randomuser.me/api/portraits/women/56.jpg",
+    "jobTitle": "Marketing Manager",
+    "experienceLevel": "Senior",
+    "yearsOfExperience": 9,
+    "currentEmployer": "Growth Axis Marketing",
+    "bio": "Marketing manager with extensive experience in digital marketing strategies and campaign optimization. Proven track record of driving growth through multi-channel marketing initiatives. Data-driven approach to measuring campaign performance and ROI.",
+    "skills": [
+      "Digital Marketing", "SEO", "SEM", "Content Strategy", "Email Marketing",
+      "Social Media Marketing", "Marketing Automation", "Google Analytics",
+      "CRM Management", "A/B Testing", "Budget Management", "Team Leadership"
+    ],
+    "education": {
+      "level": "Bachelor's Degree",
+      "institution": "Emory University",
+      "field": "Marketing and Communications"
+    },
+    "socialLinks": {
+      "linkedIn": "https://linkedin.com/in/samantha-patel-marketing",
+      "github": null,
+      "portfolio": "https://samanthapatel.marketing"
+    },
+    "salaryExpectation": "$120,000-$150,000",
+    "remotePreference": "Hybrid",
+    "availability": "1 month",
+    "workAuthorization": "US Citizen",
+    "createdAt": "2023-10-08T12:38:27Z",
+    "updatedAt": "2024-02-17T09:46:15Z"
+  },
+  {
+    "id": 9,
+    "fullName": "Ethan Brooks",
+    "firstName": "Ethan",
+    "lastName": "Brooks",
+    "email": "ethan.brooks@gmail.com",
+    "phone": "213-555-4862",
+    "location": "Los Angeles, CA",
+    "avatarUrl": "https://randomuser.me/api/portraits/men/72.jpg",
+    "jobTitle": "Product Designer",
+    "experienceLevel": "Senior",
+    "yearsOfExperience": 7,
+    "currentEmployer": "DesignForward Studio",
+    "bio": "Product designer specializing in creating user-centered digital products. Experienced in the full design process from research to high-fidelity prototypes. Advocate for design thinking and iterative improvement based on user feedback.",
+    "skills": [
+      "UI Design", "UX Design", "User Research", "Information Architecture",
+      "Wireframing", "Prototyping", "Figma", "Adobe Creative Suite",
+      "Design Systems", "Usability Testing", "Design Thinking"
+    ],
+    "education": {
+      "level": "Bachelor's Degree",
+      "institution": "UCLA",
+      "field": "Design - Human Computer Interaction"
+    },
+    "socialLinks": {
+      "linkedIn": "https://linkedin.com/in/ethan-brooks-design",
+      "github": null,
+      "portfolio": "https://ethanbrooks.design"
+    },
+    "salaryExpectation": "$130,000-$160,000",
+    "remotePreference": "Flexible",
+    "availability": "1 month",
+    "workAuthorization": "US Citizen",
+    "createdAt": "2023-09-15T14:53:19Z",
+    "updatedAt": "2024-03-08T11:22:47Z"
+  },
+  {
+    "id": 10,
+    "fullName": "Olivia Nguyen",
+    "firstName": "Olivia",
+    "lastName": "Nguyen",
+    "email": "olivia.nguyen@gmail.com",
+    "phone": "206-555-8231",
+    "location": "Seattle, WA",
+    "avatarUrl": "https://randomuser.me/api/portraits/women/62.jpg",
+    "jobTitle": "Data Engineer",
+    "experienceLevel": "Mid-level",
+    "yearsOfExperience": 5,
+    "currentEmployer": "DataFlow Systems",
+    "bio": "Data engineer with expertise in building robust data pipelines and ETL processes. Experienced in working with both structured and unstructured data at scale. Skilled in optimizing data workflows for performance and reliability.",
+    "skills": [
+      "Python", "SQL", "Apache Spark", "Airflow", "Kafka",
+      "AWS", "Data Modeling", "ETL", "Data Warehousing", "Hadoop",
+      "Snowflake", "Data Governance", "Performance Tuning"
+    ],
+    "education": {
+      "level": "Master's Degree",
+      "institution": "University of Washington",
+      "field": "Data Science"
+    },
+    "socialLinks": {
+      "linkedIn": "https://linkedin.com/in/olivia-nguyen-data",
+      "github": "https://github.com/olivia-data",
+      "portfolio": null
+    },
+    "salaryExpectation": "$125,000-$155,000",
+    "remotePreference": "Remote only",
+    "availability": "2 weeks",
+    "workAuthorization": "US Citizen",
+    "createdAt": "2023-12-07T09:41:53Z",
+    "updatedAt": "2024-03-12T15:38:24Z"
+  },
+  {
+    "id": 11,
+    "fullName": "Daniel Thompson",
+    "firstName": "Daniel",
+    "lastName": "Thompson",
+    "email": "daniel.thompson@gmail.com",
+    "phone": "415-555-2367",
+    "location": "San Francisco, CA",
+    "avatarUrl": "https://randomuser.me/api/portraits/men/17.jpg",
+    "jobTitle": "Backend Engineer",
+    "experienceLevel": "Senior",
+    "yearsOfExperience": 8,
+    "currentEmployer": "ServerStack Technologies",
+    "bio": "Backend engineer with expertise in distributed systems and API design. Skilled in building scalable, high-performance services that handle millions of requests. Passionate about clean architecture and maintainable code.",
+    "skills": [
+      "Java", "Spring Boot", "Python", "Django", "Microservices",
+      "RESTful APIs", "GraphQL", "PostgreSQL", "Redis", "Kafka",
+      "Docker", "Kubernetes", "System Design", "Performance Optimization"
+    ],
+    "education": {
+      "level": "Master's Degree",
+      "institution": "UC Berkeley",
+      "field": "Computer Science"
+    },
+    "socialLinks": {
+      "linkedIn": "https://linkedin.com/in/daniel-thompson-eng",
+      "github": "https://github.com/dthompson-dev",
+      "portfolio": "https://danielthompson.dev"
+    },
+    "salaryExpectation": "$145,000-$175,000",
+    "remotePreference": "Hybrid",
+    "availability": "1 month",
+    "workAuthorization": "US Citizen",
+    "createdAt": "2023-10-12T11:24:38Z",
+    "updatedAt": "2024-02-28T09:15:22Z"
+  },
+  {
+    "id": 12,
+    "fullName": "Jasmine Lee",
+    "firstName": "Jasmine",
+    "lastName": "Lee",
+    "email": "jasmine.lee@outlook.com",
+    "phone": "650-555-9184",
+    "location": "San Jose, CA",
+    "avatarUrl": "https://randomuser.me/api/portraits/women/22.jpg",
+    "jobTitle": "QA Engineer",
+    "experienceLevel": "Mid-level",
+    "yearsOfExperience": 4,
+    "currentEmployer": "QualityFirst Solutions",
+    "bio": "Quality assurance engineer focused on test automation and continuous integration. Experienced in developing comprehensive test strategies and implementing automated test frameworks. Strong advocate for quality-driven development practices.",
+    "skills": [
+      "Test Automation", "Selenium", "Cypress", "Jest", "Mocha", 
+      "CI/CD", "Python", "JavaScript", "API Testing", "Performance Testing",
+      "BDD", "TDD", "JIRA", "Test Planning"
+    ],
+    "education": {
+      "level": "Bachelor's Degree",
+      "institution": "San Jose State University",
+      "field": "Computer Science"
+    },
+    "socialLinks": {
+      "linkedIn": "https://linkedin.com/in/jasmine-lee-qa",
+      "github": "https://github.com/jasminelee-qa",
+      "portfolio": null
+    },
+    "salaryExpectation": "$105,000-$135,000",
+    "remotePreference": "Remote only",
+    "availability": "2 weeks",
+    "workAuthorization": "Green Card",
+    "createdAt": "2023-11-18T15:42:31Z",
+    "updatedAt": "2024-03-05T10:27:19Z"
+  },
+  {
+    "id": 13,
+    "fullName": "Robert Garcia",
+    "firstName": "Robert",
+    "lastName": "Garcia",
+    "email": "robert.garcia@gmail.com",
+    "phone": "512-555-7392",
+    "location": "Austin, TX",
+    "avatarUrl": "https://randomuser.me/api/portraits/men/36.jpg",
+    "jobTitle": "Mobile Developer",
+    "experienceLevel": "Senior",
+    "yearsOfExperience": 7,
+    "currentEmployer": "AppCraft Studios",
+    "bio": "Mobile developer with expertise in cross-platform app development. Passionate about creating intuitive mobile experiences with a focus on performance and user engagement. Experience leading development teams and mentoring junior developers.",
+    "skills": [
+      "React Native", "Flutter", "Swift", "Kotlin", "JavaScript",
+      "TypeScript", "Mobile UI/UX", "REST APIs", "Firebase",
+      "App Store Optimization", "CI/CD for Mobile", "Testing"
+    ],
+    "education": {
+      "level": "Bachelor's Degree",
+      "institution": "University of Texas at Austin",
+      "field": "Computer Science"
+    },
+    "socialLinks": {
+      "linkedIn": "https://linkedin.com/in/robert-garcia-mobile",
+      "github": "https://github.com/rgarcia-dev",
+      "portfolio": "https://robertgarcia.dev"
+    },
+    "salaryExpectation": "$130,000-$160,000",
+    "remotePreference": "Hybrid",
+    "availability": "1 month",
+    "workAuthorization": "US Citizen",
+    "createdAt": "2023-09-28T08:57:12Z",
+    "updatedAt": "2024-02-15T14:23:47Z"
+  },
+  {
+    "id": 14,
+    "fullName": "Sarah Wilson",
+    "firstName": "Sarah",
+    "lastName": "Wilson",
+    "email": "sarah.wilson@gmail.com",
+    "phone": "646-555-8271",
+    "location": "New York, NY",
+    "avatarUrl": "https://randomuser.me/api/portraits/women/52.jpg",
+    "jobTitle": "Project Manager",
+    "experienceLevel": "Senior",
+    "yearsOfExperience": 9,
+    "currentEmployer": "Strategic Projects Inc.",
+    "bio": "Experienced project manager with a track record of successfully delivering complex technical projects on time and within budget. Skilled in managing cross-functional teams and stakeholder expectations. PMP certified with expertise in agile methodologies.",
+    "skills": [
+      "Project Management", "Agile", "Scrum", "Budget Management", "Risk Management",
+      "Stakeholder Communication", "JIRA", "MS Project", "Team Leadership",
+      "Resource Planning", "Conflict Resolution", "Strategic Planning"
+    ],
+    "education": {
+      "level": "MBA",
+      "institution": "New York University",
+      "field": "Business Administration - Project Management"
+    },
+    "socialLinks": {
+      "linkedIn": "https://linkedin.com/in/sarah-wilson-pm",
+      "github": null,
+      "portfolio": null
+    },
+    "salaryExpectation": "$130,000-$160,000",
+    "remotePreference": "Hybrid",
+    "availability": "1 month",
+    "workAuthorization": "US Citizen",
+    "createdAt": "2023-10-05T13:28:54Z",
+    "updatedAt": "2024-02-22T11:43:19Z"
+  },
+  {
+    "id": 15,
+    "fullName": "Aiden Patel",
+    "firstName": "Aiden",
+    "lastName": "Patel",
+    "email": "aiden.patel@gmail.com",
+    "phone": "206-555-4291",
+    "location": "Seattle, WA",
+    "avatarUrl": "https://randomuser.me/api/portraits/men/42.jpg",
+    "jobTitle": "Machine Learning Engineer",
+    "experienceLevel": "Mid-level",
+    "yearsOfExperience": 4,
+    "currentEmployer": "AI Innovations",
+    "bio": "Machine learning engineer specializing in natural language processing and computer vision applications. Skilled in developing and deploying ML models to production. Passionate about creating AI solutions that solve real-world problems.",
+    "skills": [
+      "Python", "TensorFlow", "PyTorch", "Scikit-learn", "NLP",
+      "Computer Vision", "Deep Learning", "ML Ops", "Data Pipeline",
+      "Feature Engineering", "Model Optimization", "AWS SageMaker"
+    ],
+    "education": {
+      "level": "Master's Degree",
+      "institution": "University of Washington",
+      "field": "Artificial Intelligence"
+    },
+    "socialLinks": {
+      "linkedIn": "https://linkedin.com/in/aiden-patel-ai",
+      "github": "https://github.com/aidenpatel-ml",
+      "portfolio": "https://aidenpatel.ai"
+    },
+    "salaryExpectation": "$135,000-$165,000",
+    "remotePreference": "Flexible",
+    "availability": "2 weeks",
+    "workAuthorization": "H1B Visa",
+    "createdAt": "2023-11-22T10:37:45Z",
+    "updatedAt": "2024-03-10T08:54:31Z"
+  },
+  {
+    "id": 16,
+    "fullName": "Madison Clark",
+    "firstName": "Madison",
+    "lastName": "Clark",
+    "email": "madison.clark@outlook.com",
+    "phone": "303-555-3842",
+    "location": "Denver, CO",
+    "avatarUrl": "https://randomuser.me/api/portraits/women/38.jpg",
+    "jobTitle": "Content Marketing Specialist",
+    "experienceLevel": "Mid-level",
+    "yearsOfExperience": 5,
+    "currentEmployer": "ContentFirst Media",
+    "bio": "Content marketing specialist with experience creating compelling content strategies across multiple channels. Skilled in SEO, audience engagement, and content performance analytics. Passionate about storytelling and creating valuable content that resonates with target audiences.",
+    "skills": [
+      "Content Strategy", "SEO", "Copywriting", "Blog Management", "Social Media",
+      "Content Analytics", "Email Marketing", "WordPress", "HubSpot",
+      "Audience Research", "Editorial Planning", "Brand Voice"
+    ],
+    "education": {
+      "level": "Bachelor's Degree",
+      "institution": "University of Colorado",
+      "field": "Marketing and Communications"
+    },
+    "socialLinks": {
+      "linkedIn": "https://linkedin.com/in/madison-clark-content",
+      "github": null,
+      "portfolio": "https://madisonclark.marketing"
+    },
+    "salaryExpectation": "$85,000-$110,000",
+    "remotePreference": "Remote only",
+    "availability": "2 weeks",
+    "workAuthorization": "US Citizen",
+    "createdAt": "2023-12-10T14:21:37Z",
+    "updatedAt": "2024-03-15T09:48:23Z"
+  },
+  {
+    "id": 17,
+    "fullName": "Jason Kim",
+    "firstName": "Jason",
+    "lastName": "Kim",
+    "email": "jason.kim@gmail.com",
+    "phone": "415-555-7293",
+    "location": "San Francisco, CA",
+    "avatarUrl": "https://randomuser.me/api/portraits/men/53.jpg",
+    "jobTitle": "Product Designer",
+    "experienceLevel": "Senior",
+    "yearsOfExperience": 8,
+    "currentEmployer": "DesignHub Studio",
+    "bio": "Product designer with expertise in creating user-centered digital experiences from concept to implementation. Skilled in leading design teams and collaborating with product and engineering stakeholders. Passionate about solving complex problems with elegant, intuitive solutions.",
+    "skills": [
+      "UI Design", "UX Design", "Design Systems", "Figma", "Sketch",
+      "User Research", "Wireframing", "Prototyping", "Usability Testing",
+      "Interaction Design", "Visual Design", "Design Leadership"
+    ],
+    "education": {
+      "level": "Bachelor's Degree",
+      "institution": "Rhode Island School of Design",
+      "field": "Graphic Design"
+    },
+    "socialLinks": {
+      "linkedIn": "https://linkedin.com/in/jason-kim-design",
+      "github": null,
+      "portfolio": "https://jasonkim.design"
+    },
+    "salaryExpectation": "$140,000-$170,000",
+    "remotePreference": "Hybrid",
+    "availability": "1 month",
+    "workAuthorization": "US Citizen",
+    "createdAt": "2023-09-18T11:34:56Z",
+    "updatedAt": "2024-03-02T15:27:41Z"
+  },
+  {
+    "id": 18,
+    "fullName": "Emma Johnson",
+    "firstName": "Emma",
+    "lastName": "Johnson",
+    "email": "emma.johnson@gmail.com",
+    "phone": "617-555-2947",
+    "location": "Boston, MA",
+    "avatarUrl": "https://randomuser.me/api/portraits/women/15.jpg",
+    "jobTitle": "Frontend Developer",
+    "experienceLevel": "Junior",
+    "yearsOfExperience": 2,
+    "currentEmployer": "WebTech Solutions",
+    "bio": "Frontend developer with a passion for creating responsive, accessible web applications. Fast learner with a strong foundation in modern JavaScript frameworks. Committed to writing clean, maintainable code and staying current with frontend best practices.",
+    "skills": [
+      "JavaScript", "React", "HTML5", "CSS3", "SASS",
+      "Responsive Design", "Git", "Webpack", "Accessibility",
+      "Jest", "UI Libraries", "Frontend Performance"
+    ],
+    "education": {
+      "level": "Bachelor's Degree",
+      "institution": "Northeastern University",
+      "field": "Computer Science"
+    },
+    "socialLinks": {
+      "linkedIn": "https://linkedin.com/in/emma-johnson-dev",
+      "github": "https://github.com/emmaj-dev",
+      "portfolio": "https://emmajohnson.dev"
+    },
+    "salaryExpectation": "$80,000-$100,000",
+    "remotePreference": "Hybrid",
+    "availability": "Immediately",
+    "workAuthorization": "US Citizen",
+    "createdAt": "2024-01-15T09:22:48Z",
+    "updatedAt": "2024-03-18T11:37:54Z"
+  },
+  {
+    "id": 19,
+    "fullName": "Christopher Lee",
+    "firstName": "Christopher",
+    "lastName": "Lee",
+    "email": "christopher.lee@outlook.com",
+    "phone": "212-555-8726",
+    "location": "New York, NY",
+    "avatarUrl": "https://randomuser.me/api/portraits/men/57.jpg",
+    "jobTitle": "Business Analyst",
+    "experienceLevel": "Mid-level",
+    "yearsOfExperience": 5,
+    "currentEmployer": "Business Solutions Group",
+    "bio": "Business analyst with experience translating business requirements into technical specifications. Skilled in process analysis, data modeling, and requirements gathering. Strong communicator with ability to bridge the gap between business stakeholders and technical teams.",
+    "skills": [
+      "Requirements Analysis", "Process Modeling", "SQL", "Data Analysis",
+      "JIRA", "Agile Methodologies", "Stakeholder Management", "Use Case Development",
+      "User Stories", "BPMN", "Power BI", "Excel Advanced"
+    ],
+    "education": {
+      "level": "Bachelor's Degree",
+      "institution": "New York University",
+      "field": "Business Administration - Information Systems"
+    },
+    "socialLinks": {
+      "linkedIn": "https://linkedin.com/in/christopher-lee-analyst",
+      "github": null,
+      "portfolio": null
+    },
+    "salaryExpectation": "$95,000-$120,000",
+    "remotePreference": "Flexible",
+    "availability": "1 month",
+    "workAuthorization": "US Citizen",
+    "createdAt": "2023-11-08T14:37:25Z",
+    "updatedAt": "2024-02-25T09:51:14Z"
+  },
+  {
+    "id": 20,
+    "fullName": "Natalie Singh",
+    "firstName": "Natalie",
+    "lastName": "Singh",
+    "email": "natalie.singh@gmail.com",
+    "phone": "312-555-9234",
+    "location": "Chicago, IL",
+    "avatarUrl": "https://randomuser.me/api/portraits/women/73.jpg",
+    "jobTitle": "UX Researcher",
+    "experienceLevel": "Mid-level",
+    "yearsOfExperience": 4,
+    "currentEmployer": "User Insights Lab",
+    "bio": "UX researcher with expertise in qualitative and quantitative research methodologies. Skilled in planning and conducting user studies, analyzing results, and translating findings into actionable design recommendations. Passionate about advocating for user needs throughout the product development process.",
+    "skills": [
+      "User Research", "Usability Testing", "Interviews", "Surveys", "A/B Testing",
+      "Heuristic Evaluation", "Data Analysis", "Research Planning", "Personas",
+      "Journey Mapping", "Information Architecture", "Presenting Research Findings"
+    ],
+    "education": {
+      "level": "Master's Degree",
+      "institution": "University of Chicago",
+      "field": "Human-Computer Interaction"
+    },
+    "socialLinks": {
+      "linkedIn": "https://linkedin.com/in/natalie-singh-ux",
+      "github": null,
+      "portfolio": "https://nataliesingh.design"
+    },
+    "salaryExpectation": "$100,000-$130,000",
+    "remotePreference": "Remote only",
+    "availability": "2 weeks",
+    "workAuthorization": "US Citizen",
+    "createdAt": "2023-10-25T12:48:39Z",
+    "updatedAt": "2024-03-07T16:22:15Z"
+  },
+  {
+    "id": 21,
+    "fullName": "Brandon Taylor",
+    "firstName": "Brandon",
+    "lastName": "Taylor",
+    "email": "brandon.taylor@gmail.com",
+    "phone": "214-555-3861",
+    "location": "Dallas, TX",
+    "avatarUrl": "https://randomuser.me/api/portraits/men/47.jpg",
+    "jobTitle": "Cloud Architect",
+    "experienceLevel": "Senior",
+    "yearsOfExperience": 10,
+    "currentEmployer": "CloudScale Solutions",
+    "bio": "Cloud architect with expertise in designing and implementing scalable, secure, and cost-effective cloud infrastructure. Experience across multiple cloud platforms with a focus on migration strategies and hybrid cloud solutions. Strong advocate for automation and infrastructure as code.",
+    "skills": [
+      "AWS", "Azure", "GCP", "Terraform", "CloudFormation", "Kubernetes",
+      "Docker", "CI/CD", "Microservices", "Security", "Cost Optimization",
+      "Disaster Recovery", "High Availability", "Serverless"
+    ],
+    "education": {
+      "level": "Bachelor's Degree",
+      "institution": "Texas A&M University",
+      "field": "Computer Science"
+    },
+    "socialLinks": {
+      "linkedIn": "https://linkedin.com/in/brandon-taylor-cloud",
+      "github": "https://github.com/btaylor-cloud",
+      "portfolio": "https://brandontaylor.cloud"
+    },
+    "salaryExpectation": "$150,000-$180,000",
+    "remotePreference": "Remote only",
+    "availability": "1 month",
+    "workAuthorization": "US Citizen",
+    "createdAt": "2023-09-20T10:15:37Z",
+    "updatedAt": "2024-02-18T13:42:51Z"
+  },
+  {
+    "id": 22,
+    "fullName": "Maya Patel",
+    "firstName": "Maya",
+    "lastName": "Patel",
+    "email": "maya.patel@outlook.com",
+    "phone": "408-555-7493",
+    "location": "San Jose, CA",
+    "avatarUrl": "https://randomuser.me/api/portraits/women/31.jpg",
+    "jobTitle": "Software Engineer",
+    "experienceLevel": "Mid-level",
+    "yearsOfExperience": 4,
+    "currentEmployer": "TechSphere Inc.",
+    "bio": "Software engineer with full-stack development expertise and a strong foundation in computer science fundamentals. Experience building scalable web applications and RESTful APIs. Passionate about clean code, testing, and mentoring junior developers.",
+    "skills": [
+      "JavaScript", "TypeScript", "React", "Node.js", "Python",
+      "SQL", "MongoDB", "REST APIs", "Git", "CI/CD",
+      "Testing", "Agile", "Problem Solving"
+    ],
+    "education": {
+      "level": "Bachelor's Degree",
+      "institution": "University of California, San Diego",
+      "field": "Computer Science"
+    },
+    "socialLinks": {
+      "linkedIn": "https://linkedin.com/in/maya-patel-dev",
+      "github": "https://github.com/mayapatel-dev",
+      "portfolio": "https://mayapatel.dev"
+    },
+    "salaryExpectation": "$115,000-$140,000",
+    "remotePreference": "Hybrid",
+    "availability": "2 weeks",
+    "workAuthorization": "US Citizen",
+    "createdAt": "2023-11-14T09:28:45Z",
+    "updatedAt": "2024-03-01T14:36:22Z"
+  },
+  {
+    "id": 23,
+    "fullName": "William Chen",
+    "firstName": "William",
+    "lastName": "Chen",
+    "email": "william.chen@gmail.com",
+    "phone": "617-555-4927",
+    "location": "Boston, MA",
+    "avatarUrl": "https://randomuser.me/api/portraits/men/39.jpg",
+    "jobTitle": "Data Analyst",
+    "experienceLevel": "Junior",
+    "yearsOfExperience": 2,
+    "currentEmployer": "Data Insights Co.",
+    "bio": "Data analyst with experience translating complex datasets into actionable business insights. Skilled in statistical analysis, data visualization, and reporting. Passionate about using data to drive business decisions and measure performance.",
+    "skills": [
+      "SQL", "Python", "R", "Excel", "Power BI", 
+      "Tableau", "Data Visualization", "Statistical Analysis", 
+      "A/B Testing", "Google Analytics", "Reporting", "ETL"
+    ],
+    "education": {
+      "level": "Bachelor's Degree",
+      "institution": "Boston University",
+      "field": "Statistics"
+    },
+    "socialLinks": {
+      "linkedIn": "https://linkedin.com/in/william-chen-data",
+      "github": "https://github.com/wchen-data",
+      "portfolio": null
+    },
+    "salaryExpectation": "$75,000-$95,000",
+    "remotePreference": "Flexible",
+    "availability": "Immediately",
+    "workAuthorization": "US Citizen",
+    "createdAt": "2024-01-10T11:37:28Z",
+    "updatedAt": "2024-03-17T10:24:51Z"
+  },
+  {
+    "id": 24,
+    "fullName": "Ava Robinson",
+    "firstName": "Ava",
+    "lastName": "Robinson",
+    "email": "ava.robinson@gmail.com",
+    "phone": "404-555-2876",
+    "location": "Atlanta, GA",
+    "avatarUrl": "https://randomuser.me/api/portraits/women/19.jpg",
+    "jobTitle": "UI Designer",
+    "experienceLevel": "Mid-level",
+    "yearsOfExperience": 5,
+    "currentEmployer": "Creative Design Studio",
+    "bio": "UI designer with a passion for creating beautiful, intuitive interfaces. Experienced in designing for web and mobile platforms with a focus on visual design systems and brand consistency. Skilled in collaborating with UX and development teams to deliver cohesive experiences.",
+    "skills": [
+      "UI Design", "Visual Design", "Figma", "Adobe XD", "Sketch",
+      "Illustration", "Typography", "Color Theory", "Design Systems",
+      "Prototyping", "Responsive Design", "Branding"
+    ],
+    "education": {
+      "level": "Bachelor's Degree",
+      "institution": "Savannah College of Art and Design",
+      "field": "Graphic Design"
+    },
+    "socialLinks": {
+      "linkedIn": "https://linkedin.com/in/ava-robinson-design",
+      "github": null,
+      "portfolio": "https://avarobinson.design"
+    },
+    "salaryExpectation": "$95,000-$120,000",
+    "remotePreference": "Remote only",
+    "availability": "2 weeks",
+    "workAuthorization": "US Citizen",
+    "createdAt": "2023-10-18T13:47:29Z",
+    "updatedAt": "2024-02-27T09:52:16Z"
+  },
+  {
+    "id": 25,
+    "fullName": "Carlos Fernandez",
+    "firstName": "Carlos",
+    "lastName": "Fernandez",
+    "email": "carlos.fernandez@outlook.com",
+    "phone": "305-555-8345",
+    "location": "Miami, FL",
+    "avatarUrl": "https://randomuser.me/api/portraits/men/64.jpg",
+    "jobTitle": "iOS Developer",
+    "experienceLevel": "Senior",
+    "yearsOfExperience": 8,
+    "currentEmployer": "MobileFirst Technology",
+    "bio": "iOS developer with extensive experience building and shipping high-quality mobile applications. Expertise in Swift, UIKit, and SwiftUI with a focus on performance and user experience. Skilled in architecting maintainable codebases and mentoring junior developers.",
+    "skills": [
+      "Swift", "Objective-C", "UIKit", "SwiftUI", "Core Data",
+      "RESTful APIs", "App Architecture", "Performance Optimization",
+      "Unit Testing", "CI/CD", "App Store Submission", "Firebase"
+    ],
+    "education": {
+      "level": "Bachelor's Degree",
+      "institution": "University of Florida",
+      "field": "Computer Science"
+    },
+    "socialLinks": {
+      "linkedIn": "https://linkedin.com/in/carlos-fernandez-ios",
+      "github": "https://github.com/cfernandez-ios",
+      "portfolio": "https://carlosfernandez.dev"
+    },
+    "salaryExpectation": "$135,000-$165,000",
+    "remotePreference": "Hybrid",
+    "availability": "1 month",
+    "workAuthorization": "US Citizen",
+    "createdAt": "2023-09-30T14:38:52Z",
+    "updatedAt": "2024-02-20T11:23:47Z"
+  },
+  {
+    "id": 26,
+    "fullName": "Sophia Wright",
+    "firstName": "Sophia",
+    "lastName": "Wright",
+    "email": "sophia.wright@gmail.com",
+    "phone": "206-555-3719",
+    "location": "Seattle, WA",
+    "avatarUrl": "https://randomuser.me/api/portraits/women/44.jpg",
+    "jobTitle": "Technical Program Manager",
+    "experienceLevel": "Senior",
+    "yearsOfExperience": 9,
+    "currentEmployer": "InnoTech Solutions",
+    "bio": "Technical program manager with expertise in coordinating complex, cross-functional projects in software development. Strong background in both engineering and project management with a focus on delivering high-quality products on schedule. Skilled in stakeholder management and team leadership.",
+    "skills": [
+      "Program Management", "Project Planning", "Agile", "Scrum",
+      "Risk Management", "Stakeholder Management", "Technical Leadership",
+      "Roadmapping", "Budgeting", "Team Development", "Problem Solving"
+    ],
+    "education": {
+      "level": "Master's Degree",
+      "institution": "University of Washington",
+      "field": "Technology Management"
+    },
+    "socialLinks": {
+      "linkedIn": "https://linkedin.com/in/sophia-wright-tpm",
+      "github": null,
+      "portfolio": null
+    },
+    "salaryExpectation": "$140,000-$170,000",
+    "remotePreference": "Hybrid",
+    "availability": "1 month",
+    "workAuthorization": "US Citizen",
+    "createdAt": "2023-10-08T11:25:47Z",
+    "updatedAt": "2024-03-05T15:38:21Z"
+  },
+  {
+    "id": 27,
+    "fullName": "Jacob Miller",
+    "firstName": "Jacob",
+    "lastName": "Miller",
+    "email": "jacob.miller@gmail.com",
+    "phone": "312-555-4628",
+    "location": "Chicago, IL",
+    "avatarUrl": "https://randomuser.me/api/portraits/men/28.jpg",
+    "jobTitle": "Security Engineer",
+    "experienceLevel": "Mid-level",
+    "yearsOfExperience": 5,
+    "currentEmployer": "SecureDefense Systems",
+    "bio": "Security engineer specializing in application security and penetration testing. Experienced in identifying and remediating security vulnerabilities in web and mobile applications. Passionate about implementing secure coding practices and educating development teams on security best practices.",
+    "skills": [
+      "Application Security", "Penetration Testing", "OWASP", "Security Code Review",
+      "Vulnerability Assessment", "Network Security", "Authentication Systems",
+      "Threat Modeling", "DevSecOps", "Python", "Security Automation"
+    ],
+    "education": {
+      "level": "Bachelor's Degree",
+      "institution": "University of Illinois Chicago",
+      "field": "Computer Science - Security Focus"
+    },
+    "socialLinks": {
+      "linkedIn": "https://linkedin.com/in/jacob-miller-security",
+      "github": "https://github.com/jmiller-security",
+      "portfolio": null
+    },
+    "salaryExpectation": "$120,000-$150,000",
+    "remotePreference": "Flexible",
+    "availability": "1 month",
+    "workAuthorization": "US Citizen",
+    "createdAt": "2023-11-05T09:35:28Z",
+    "updatedAt": "2024-02-22T13:47:19Z"
+  },
+  {
+    "id": 28,
+    "fullName": "Lily Zhang",
+    "firstName": "Lily",
+    "lastName": "Zhang",
+    "email": "lily.zhang@outlook.com",
+    "phone": "415-555-9287",
+    "location": "San Francisco, CA",
+    "avatarUrl": "https://randomuser.me/api/portraits/women/87.jpg",
+    "jobTitle": "Product Manager",
+    "experienceLevel": "Mid-level",
+    "yearsOfExperience": 5,
+    "currentEmployer": "ProductSphere Inc.",
+    "bio": "Product manager with a background in user experience and a passion for building products that solve real user problems. Experience in feature definition, roadmapping, and stakeholder management. Data-driven approach to product development with a focus on measurable outcomes.",
+    "skills": [
+      "Product Strategy", "Roadmapping", "User Stories", "A/B Testing",
+      "Analytics", "Stakeholder Management", "Market Research",
+      "Competitive Analysis", "Agile/Scrum", "Wireframing", "User Interviews"
+    ],
+    "education": {
+      "level": "Bachelor's Degree",
+      "institution": "UC Berkeley",
+      "field": "Business Administration"
+    },
+    "socialLinks": {
+      "linkedIn": "https://linkedin.com/in/lily-zhang-product",
+      "github": null,
+      "portfolio": "https://lilyzhang.product"
+    },
+    "salaryExpectation": "$125,000-$155,000",
+    "remotePreference": "Hybrid",
+    "availability": "1 month",
+    "workAuthorization": "US Citizen",
+    "createdAt": "2023-10-28T14:37:56Z",
+    "updatedAt": "2024-03-08T10:25:33Z"
+  },
+  {
+    "id": 29,
+    "fullName": "Ryan Johnson",
+    "firstName": "Ryan",
+    "lastName": "Johnson",
+    "email": "ryan.johnson@gmail.com",
+    "phone": "512-555-2369",
+    "location": "Austin, TX",
+    "avatarUrl": "https://randomuser.me/api/portraits/men/19.jpg",
+    "jobTitle": "DevOps Engineer",
+    "experienceLevel": "Mid-level",
+    "yearsOfExperience": 4,
+    "currentEmployer": "CloudOps Solutions",
+    "bio": "DevOps engineer with experience automating infrastructure and deployment processes. Skilled in implementing CI/CD pipelines and optimizing development workflows. Passionate about infrastructure as code and building resilient, scalable systems.",
+    "skills": [
+      "Docker", "Kubernetes", "AWS", "Terraform", "Jenkins",
+      "GitLab CI", "Ansible", "Python", "Bash", "Monitoring",
+      "Logging", "Linux Administration", "Security Best Practices"
+    ],
+    "education": {
+      "level": "Bachelor's Degree",
+      "institution": "University of Texas at Austin",
+      "field": "Computer Science"
+    },
+    "socialLinks": {
+      "linkedIn": "https://linkedin.com/in/ryan-johnson-devops",
+      "github": "https://github.com/rjohnson-ops",
+      "portfolio": null
+    },
+    "salaryExpectation": "$110,000-$140,000",
+    "remotePreference": "Remote only",
+    "availability": "2 weeks",
+    "workAuthorization": "US Citizen",
+    "createdAt": "2023-12-05T10:47:38Z",
+    "updatedAt": "2024-03-12T15:28:19Z"
+  },
+  {
+    "id": 30,
+    "fullName": "Zoe Thomas",
+    "firstName": "Zoe",
+    "lastName": "Thomas",
+    "email": "zoe.thomas@gmail.com",
+    "phone": "213-555-7824",
+    "location": "Los Angeles, CA",
+    "avatarUrl": "https://randomuser.me/api/portraits/women/66.jpg",
+    "jobTitle": "Digital Marketing Specialist",
+    "experienceLevel": "Mid-level",
+    "yearsOfExperience": 5,
+    "currentEmployer": "Growth Marketing Agency",
+    "bio": "Digital marketing specialist with experience developing and implementing multi-channel marketing campaigns. Skilled in SEO, SEM, social media, and content marketing. Data-driven approach to optimizing marketing strategies and measuring ROI.",
+    "skills": [
+      "SEO", "SEM", "Google Ads", "Social Media Marketing", "Content Strategy",
+      "Email Marketing", "Google Analytics", "Marketing Automation",
+      "A/B Testing", "Conversion Optimization", "HubSpot", "Facebook Ads"
+    ],
+    "education": {
+      "level": "Bachelor's Degree",
+      "institution": "UCLA",
+      "field": "Marketing"
+    },
+    "socialLinks": {
+      "linkedIn": "https://linkedin.com/in/zoe-thomas-marketing",
+      "github": null,
+      "portfolio": "https://zoethomas.marketing"
+    },
+    "salaryExpectation": "$85,000-$110,000",
+    "remotePreference": "Hybrid",
+    "availability": "1 month",
+    "workAuthorization": "US Citizen",
+    "createdAt": "2023-11-15T13:28:47Z",
+    "updatedAt": "2024-02-28T09:31:24Z"
+  }
+] 
